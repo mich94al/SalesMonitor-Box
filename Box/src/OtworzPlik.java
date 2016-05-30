@@ -11,7 +11,7 @@ public class OtworzPlik {
 			FileReader plik=null;
 		    try {
 		      plik = new FileReader("plik.txt");
-		      System.out.println("sukces");
+		      System.out.println("Plik istnieje-otworzono");
 		     } catch (FileNotFoundException e) {
 		    	 e.printStackTrace();
 		         File kuba=new File("plik.txt");

@@ -1,1 +1,5 @@
-java.io.BufferedInputStream@2a139a55
+{"Godzina":"11:29:58","Kod":"potwor","Data":"2016-05-30"}
+{"Godzina":"11:29:59","Kod":"otwor","Data":"2016-05-30"}
+{"Godzina":"11:30:03","Kod":"disco","Data":"2016-05-30"}
+{"Godzina":"11:30:04","Kod":"wojcieh","Data":"2016-05-30"}
+{"Godzina":"11:30:05","Kod":"dom","Data":"2016-05-30"}
