@@ -3,11 +3,15 @@ import java.awt.event.KeyListener;
 
 public class Main implements KeyListener{
 
+
 	public static void main(String[] args) {
 		
-		while(true)
+		OtworzPlik.Tworz();
+		int i=0;
+		while(i<5)
 		{
-			
+			Zapis.Zapisuj();
+			i++;
 		}
 	}
 	@Override
